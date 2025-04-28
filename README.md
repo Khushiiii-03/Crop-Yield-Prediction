@@ -9,10 +9,11 @@ The Crop Yield Prediction Model is a machine learning-based classification syste
 The model uses data preprocessing, exploratory data analysis (EDA), and a machine learning algorithm to classify crops based on historical data. Farmers and agricultural experts can use this model to improve decision-making, enhance productivity, and optimize resource utilization.
 
 ---
-<img width="1470" alt="Screenshot 2025-04-23 at 1 11 14 AM" src="https://github.com/user-attachments/assets/0dc227ac-05ed-4ce3-a20c-c532f366972d" />
-<img width="1470" alt="Screenshot 2025-04-23 at 1 11 55 AM" src="https://github.com/user-attachments/assets/36721583-9a41-4d3c-b78b-bc1c65ccff57" />
-<img width="1470" alt="Screenshot 2025-04-23 at 1 12 44 AM" src="https://github.com/user-attachments/assets/9a562748-621c-4084-abbc-d424becbb2c1" />
-<img width="1470" alt="Screenshot 2025-04-23 at 1 13 27 AM" src="https://github.com/user-attachments/assets/f536ca83-ae64-4ca2-b335-01a17c516c14" />
+<img width="1470" alt="Screenshot 2025-04-28 at 10 02 02 PM" src="https://github.com/user-attachments/assets/d5875e0f-eafc-40bc-9955-a67d8a9a7719" />
+<img width="1470" alt="Screenshot 2025-04-28 at 10 02 38 PM" src="https://github.com/user-attachments/assets/0eb6c0d6-967a-4f72-82f2-0d3a9972ad2d" />
+
+<img width="1470" alt="Screenshot 2025-04-28 at 10 03 14 PM" src="https://github.com/user-attachments/assets/a1db6b4e-5a8d-4f9c-aa55-6bb0bf0bb695" />
+<img width="1470" alt="Screenshot 2025-04-28 at 10 04 11 PM" src="https://github.com/user-attachments/assets/3a062116-1817-49b4-84b2-02b9cd9b56fe" />
 
 
 ---
