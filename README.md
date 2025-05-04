@@ -12,9 +12,6 @@ The model uses data preprocessing, exploratory data analysis (EDA), and a machin
 <img width="1470" alt="Screenshot 2025-04-28 at 10 02 02 PM" src="https://github.com/user-attachments/assets/d5875e0f-eafc-40bc-9955-a67d8a9a7719" />
 <img width="1470" alt="Screenshot 2025-04-28 at 10 02 38 PM" src="https://github.com/user-attachments/assets/0eb6c0d6-967a-4f72-82f2-0d3a9972ad2d" />
 
-<img width="1470" alt="Screenshot 2025-04-28 at 10 03 14 PM" src="https://github.com/user-attachments/assets/a1db6b4e-5a8d-4f9c-aa55-6bb0bf0bb695" />
-<img width="1470" alt="Screenshot 2025-04-28 at 10 04 11 PM" src="https://github.com/user-attachments/assets/3a062116-1817-49b4-84b2-02b9cd9b56fe" />
-
 
 ---
 **Data Source**
@@ -54,5 +51,36 @@ accuracy_score – Evaluating model performance
 
 4.**Streamlit** : for basic web UI and application.
 
+---
+
+**SYSTEM MODELS**
+
+**1.USE-CASE DIAGRAM**
+
+<img width="818" alt="USE CASE" src="https://github.com/user-attachments/assets/dc0c45d6-b355-48fa-a98f-c5bb81764320" />
+
+**2.CLASS DIAGRAM**
+
+<img width="1017" alt="Screenshot 2025-05-04 at 5 40 32 PM" src="https://github.com/user-attachments/assets/69b5c34b-d175-4aed-88e2-89d15de68514" />
 
 
+**3.ER DIAGRAM**
+
+<img width="825" alt="ER DIAGRAM" src="https://github.com/user-attachments/assets/f26d7ebd-8af6-4300-a3a6-f2e72bfe4afc" />
+
+**4.DATA FLOW DIAGRAM**
+
+**LEVEL 0**
+
+![LEVEL 0 DFD (1)](https://github.com/user-attachments/assets/b6ab79f6-4d7d-4e78-82ae-12448bfc2377)
+
+**LEVEL1**
+
+![level 1 dfd](https://github.com/user-attachments/assets/5f0e19a5-1790-4362-b1b2-cdcc18f07a3d)
+
+
+**LEVEL 2**
+
+![level 2 dfd](https://github.com/user-attachments/assets/dd529d6f-0db7-40d1-8a4d-cc3d466f0cf4)
+
+---
