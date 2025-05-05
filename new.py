@@ -71,4 +71,4 @@ if predict_button:
     crop = crop_dict.get(prediction, "Unknown Crop")
 
     st.success(f"✅ Recommended Crop: **{crop.capitalize()}**")
-    st.info(f"🔢 Model output code: `{prediction}`")
+    
