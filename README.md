@@ -68,6 +68,9 @@ accuracy_score – Evaluating model performance
 
 <img width="825" alt="ER DIAGRAM" src="https://github.com/user-attachments/assets/f26d7ebd-8af6-4300-a3a6-f2e72bfe4afc" />
 
+<img width="510" alt="Screenshot 2025-05-05 at 4 17 03 PM" src="https://github.com/user-attachments/assets/0f6600b1-1a1c-49dc-9855-51d53bf1d87c" />
+
+
 **4.DATA FLOW DIAGRAM**
 
 **LEVEL 0**
@@ -82,5 +85,10 @@ accuracy_score – Evaluating model performance
 **LEVEL 2**
 
 ![level 2 dfd](https://github.com/user-attachments/assets/dd529d6f-0db7-40d1-8a4d-cc3d466f0cf4)
+
+
+**5.SEQUENCE DIAGRAM**
+
+<img width="816" alt="Screenshot 2025-05-05 at 4 15 24 PM" src="https://github.com/user-attachments/assets/4ab00197-8c70-437e-8ad0-ce3d786c6546" />
 
 ---
